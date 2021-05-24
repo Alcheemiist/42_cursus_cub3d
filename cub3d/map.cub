@@ -2,7 +2,7 @@ R 500 900000
 
 S ./texture/pika.xpm
 
-NO ./texture/no_tile.xpm
+NO ./texture/no_t il e.xpm
 SO ./texture/so_tile.xpm
 WE ./texture/we_tile.xpm
 F 105,105,105
